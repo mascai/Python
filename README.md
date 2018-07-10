@@ -1,1 +1,1 @@
-Python exercises edit
+Python exercises
